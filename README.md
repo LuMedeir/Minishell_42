@@ -20,7 +20,7 @@ We had to incorporate the following features:
 - Implement **redirections** such as:
   - `<` redirect input.
   - `>` redirect output.
-  - `<<` heredoc (doesn't affect history).
+  - `<<` heredoc.
   - `>>` redirect output in append mode.
 - Implement `|` (**pipes**).
 - Handle **environment variables**.
