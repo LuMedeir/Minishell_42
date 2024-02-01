@@ -1,4 +1,4 @@
-# Minishell
+# Minishell 🐚
 <p align="center">
 <img src="./minishell.png">
 </p>
