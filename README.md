@@ -3,7 +3,7 @@
 <img src="./minishell.png">
 </p>
 <p align="center">
-### As beautiful as a shell
+<h1> As beautiful as a shell </h1>
 </p>
 ---
 </br>
