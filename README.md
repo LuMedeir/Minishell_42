@@ -3,7 +3,7 @@
 <img src="./minishell.png">
 </p>
 <p align="center">
-<h1> As beautiful as a shell </h1>
+<h4> As beautiful as a shell </h1>
 </p>
 ---
 </br>
@@ -45,3 +45,14 @@ We had to incorporate the following features:
 | `make fclean`| Do `clean` rule and remove the executable program       |
 | `make re`    | Do `fclean` rule and compile the program mandatory      |
 
+## Instalation 
+### Clone the repository:
+``` 
+git clone https://github.com/LuMedeir/Minishell_42.git
+cd minishell
+```
+### Run Minishell
+```
+make
+./minishell
+```
