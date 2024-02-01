@@ -5,7 +5,6 @@
 <p align="center">
 <h4> As beautiful as a shell </h1>
 </p>
----
 </br>
 
 ## Description  
@@ -55,4 +54,8 @@ cd minishell
 ```
 make
 ./minishell
+```
+*to exit the program:*
+```
+exit
 ```
