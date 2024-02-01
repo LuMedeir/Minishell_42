@@ -2,8 +2,8 @@
 <p align="center">
 <img src="./minishell.png">
 </p>
-                As beautiful as a shell
 <p align="center">
+###As beautiful as a shell
 </p>
 ---
 </br>
@@ -29,7 +29,7 @@ We had to incorporate the following features:
 - `ctrl-C`, `ctrl-D`, and `ctrl-\` should behave like in bash.
 - Recreate the following **builtins**:
   - `echo` with option `-n`.
-  - `cd` with only a relative or absolute path.
+  - `cd` with only a relative or absolute path (we implemented the tilde shortcut "~").
   - `pwd` (no flags).
   - `export` (no flags).
   - `unset` (no flags).
