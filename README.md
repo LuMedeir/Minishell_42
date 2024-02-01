@@ -1,15 +1,15 @@
 # Minishell
 <p align="center">
 <img src="./minishell.png">
-                As beautiful as a shell
 </p>
+                As beautiful as a shell
 <p align="center">
 </p>
 ---
 </br>
 
 ## Description  
-The goal of Minishell was to create a mini version of bash, through the creation of a basic command interpreter. We learn about system calls, process manipulation, input/output redirection, and environment variables, while developing problem-solving skills, programming logic, and teamwork. This project was an opportunity to apply theoretical knowledge into a challenging practical application.
+- The goal of Minishell was to create a mini version of bash, through the creation of a basic command interpreter. We learn about system calls, process manipulation, input/output redirection, and environment variables, while developing problem-solving skills, programming logic, and teamwork. This project was an opportunity to apply theoretical knowledge into a challenging practical application.
 ---
 ### Discription of mandatory part
 We had to incorporate the following features:
